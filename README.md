@@ -1,6 +1,6 @@
 # WWDC20-10643
 This is a code sample based on the WWDC session 
-###Build a SwiftUI view in Swift Playgrounds
+### Build a SwiftUI view in Swift Playgrounds
 
 This repot contains an Xcode project with a single Swift Playgound. The project can be opened and run in Xcode 11.5, or the playground can be imported into the Swift Playgrounds app.
 
